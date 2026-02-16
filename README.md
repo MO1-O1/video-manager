@@ -34,7 +34,7 @@ py -m pip install yt-dlp
 Run the script:
 
 ```bash
-python ideo_manager.py
+python video_manager.py
 ```
 ---
 
