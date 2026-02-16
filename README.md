@@ -26,3 +26,18 @@ A lightweight YouTube video downloader built with Python and powered by yt-dlp.
 
 ```bash
 py -m pip install yt-dlp
+```
+---
+
+## ▶️ Usage
+
+Run the script:
+
+```bash
+python ideo_manager.py
+```
+---
+
+## 👤 Author
+
+Made by MO1_1
