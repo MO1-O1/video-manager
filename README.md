@@ -1,5 +1,4 @@
 # video-manager
-Simple YouTube video downloader powered by yt-dlp.
 
 A lightweight YouTube video downloader built with Python and powered by yt-dlp.
 
