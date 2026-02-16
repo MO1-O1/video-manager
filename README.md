@@ -30,7 +30,7 @@ py -m pip install yt-dlp
 ---
 
 ## ▶️ Usage
-
+https://github.com/MO1-O1/video-manager/releases
 Run the script:
 
 ```bash
