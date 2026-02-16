@@ -37,6 +37,12 @@ Run the script:
 python video_manager.py
 ```
 ---
+---
+
+## ⚠️ Disclaimer
+
+This tool is intended for educational purposes only.
+Please respect YouTube's Terms of Service and copyright laws.
 
 ## 👤 Author
 
